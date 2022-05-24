@@ -4,7 +4,7 @@ NYC-based human learning web development with the Odin Project. Here are some re
 
 <a href="https://github.com/xewar/battleship">
 <img src="https://github.com/xewar/projectThumbnails/blob/886a13e60bacd355e3d8b85fc9b9c0b804a624dd/Battleship.png" height="150" alt="Battleship"></a>
-<a href="https://github.com/xewar/to-do/">
+<a href="https://github.com/xewar/to-do-list/">
 <img align="right" src="https://github.com/xewar/projectThumbnails/blob/56f419dd9d1148b3ac97cc690b6df82e6c90136e/todoList.png" height="150"></a><a href="https://github.com/xewar/etch-a-sketch/"><img align="right" src="https://github.com/xewar/projectThumbnails/blob/eac75ed24fa52f136b1d08ab36099e5fe7bbb612/etchASketch.png" height="150"></a><a href="https://github.com/xewar/weatherApp">
 <img align="right" alt="Weather App" src="https://github.com/xewar/weatherApp/blob/623bbc1633a844fbcaa61767a4629da7046055f0/src/projectThumbnail.png" height="150"></a>
 <a href="https://github.com/xewar/calculator/">
