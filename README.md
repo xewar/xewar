@@ -1,6 +1,6 @@
 ### Greetings
 
-I'm learning web development with the Odin Project, currently working on learning React.
+I'm learning web development with the Odin Project. I'm currently working on learning React.
 
 Here are some recent projects:
 
