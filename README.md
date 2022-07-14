@@ -1,7 +1,6 @@
 ### Greetings
 
-NYC-based human learning web development with the Odin Project.
-I'm currently learning React.
+I'm learning web development with the Odin Project, currently working on learning React.
 
 Here are some recent projects:
 
