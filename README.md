@@ -1,7 +1,13 @@
 ### Greetings
 
-NYC-based human learning web development with the Odin Project. Here are some recent projects:
+NYC-based human learning web development with the Odin Project.
+I'm currently learning React.
 
+Here are some recent projects:
+
+
+<a href="https://github.com/xewar/cv-builder">
+<img src="https://github.com/xewar/projectThumbnails/blob/7748307293ac9c726d2cdf4a89ba3f5cc829b40b/cvBuilder2.png" height="150" alt="CV Builder">
 <a href="https://github.com/xewar/battleship">
 <img src="https://github.com/xewar/projectThumbnails/blob/886a13e60bacd355e3d8b85fc9b9c0b804a624dd/Battleship.png" height="150" alt="Battleship"></a>
 <a href="https://github.com/xewar/to-do-list/">
