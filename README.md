@@ -1,4 +1,4 @@
-### Greetings
+### Greetings!
 
 I'm learning web development with the Odin Project. I'm currently working on learning React.
 
