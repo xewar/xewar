@@ -6,6 +6,7 @@ Welcome to my profile. I'm currently focused on learning web development. I'm re
 - getting more comfortable with REACT
 - playing around with p5.js and looking at creative coding projects others have done
 - starting Stanford's data structures and algorithms class
+- meeting everyone else at RC
 
 
 Here a couple recent projects:
