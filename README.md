@@ -9,7 +9,7 @@ Welcome to my profile. I'm currently focused on learning web development. I'm re
 - meeting everyone else at RC
 
 
-Here a couple recent projects:
+Here are some recent projects:
 
 <a href="https://github.com/xewar/cv-builder">
 <img src="https://github.com/xewar/projectThumbnails/blob/7748307293ac9c726d2cdf4a89ba3f5cc829b40b/cvBuilder2.png" height="150" alt="CV Builder">
@@ -17,7 +17,7 @@ Here a couple recent projects:
 <img align="right" src="https://github.com/xewar/projectThumbnails/blob/56f419dd9d1148b3ac97cc690b6df82e6c90136e/todoList.png" height="150"></a><a href="https://github.com/xewar/etch-a-sketch/"><img align="right" src="https://github.com/xewar/projectThumbnails/blob/eac75ed24fa52f136b1d08ab36099e5fe7bbb612/etchASketch.png" height="150"></a><a href="https://github.com/xewar/weatherApp">
 <img align="right" alt="Weather App" src="https://github.com/xewar/weatherApp/blob/623bbc1633a844fbcaa61767a4629da7046055f0/src/projectThumbnail.png" height="150"></a>
 
-
+You can also visit me at my website: [clarahonu.com](https://clarahonu.com)
 <!--
 Archived projects:
 <a href="https://github.com/xewar/calculator/">
