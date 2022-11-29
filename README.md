@@ -1,13 +1,11 @@
 ### Greetings! I'm Clara (she/her)
 
-Welcome to my profile. I'm currently focused on learning web development. I'm really excited to have just started a three-month residency at [the Recurse Center](https://www.recurse.com/about) (👋🏽 hi everyone!)
+Welcome to my profile. I'm currently focused on learning web development. I'm really excited to doing a three-month residency at [the Recurse Center](https://www.recurse.com/about) (👋🏽 hi everyone!)
 
 #### This week I'm focusing on:
-- getting more comfortable with REACT
-- playing around with p5.js and looking at creative coding projects others have done
-- starting Stanford's data structures and algorithms class
-- meeting everyone else at RC
-
+- Working on a design + wireframe for my next project
+- familiarizing myself with MongoDB
+- starting to learn Express
 
 #### Here are some recent projects:
 
