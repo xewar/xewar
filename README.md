@@ -15,8 +15,9 @@ Welcome to my profile. I'm currently focused on learning web development. I'm re
 <img align="right" src="https://github.com/xewar/projectThumbnails/blob/56f419dd9d1148b3ac97cc690b6df82e6c90136e/todoList.png" height="150"></a><a href="https://github.com/xewar/etch-a-sketch/"><img align="right" src="https://github.com/xewar/projectThumbnails/blob/eac75ed24fa52f136b1d08ab36099e5fe7bbb612/etchASketch.png" height="150"></a><a href="https://github.com/xewar/weatherApp"></a>
 <br></br>
 
-You can also find me on my website: [clarahonu.com](https://clarahonu.com)
 <!--
+
+You can also find me on my website: [clarahonu.com](https://clarahonu.com)
 Archived projects:
 <a href="https://github.com/xewar/calculator/">
   <img src="https://github.com/xewar/projectThumbnails/blob/1c7576065ad681be7044ba8a5e7b368a64f4d406/calculator.png" height="150"></a>
