@@ -1,6 +1,6 @@
 ### Greetings! I'm Clara (she/her)
 
-Welcome to my profile. I'm currently focused on learning web development. I'm really excited to doing a three-month residency at [the Recurse Center](https://www.recurse.com/about) (👋🏽 hi everyone!)
+Welcome to my profile. I'm currently focused on learning web development. I'm really excited to doing a three-month residency at [the Recurse Center](https://www.recurse.com/about).
 
 #### This week I'm focusing on:
 - Working on a design + wireframe for my next project
