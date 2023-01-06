@@ -3,16 +3,17 @@
 Welcome to my profile. I'm currently focused on learning web development. I'm really excited to doing a three-month residency at [the Recurse Center](https://www.recurse.com/about).
 
 #### This week I'm focusing on:
-- Working on a design + wireframe for my next project
-- familiarizing myself with MongoDB
-- starting to learn Express
+- The design + wireframe for my next project, a fashion app
+- learning MongoDB
+- practicing Typescript
 
 #### Here are some recent projects:
-
+<a href="https://github.com/xewar/memoryCard">
+<img src="https://github.com/xewar/projectThumbnails/blob/78a671e8a9e1d9f81eadb9d65aa2c61897d97d00/birdsOfNY2.png" height="200" alt="Birds of NY">
 <a href="https://github.com/xewar/cv-builder">
-<img src="https://github.com/xewar/projectThumbnails/blob/7748307293ac9c726d2cdf4a89ba3f5cc829b40b/cvBuilder2.png" height="150" alt="CV Builder">
+<img src="https://github.com/xewar/projectThumbnails/blob/7748307293ac9c726d2cdf4a89ba3f5cc829b40b/cvBuilder2.png" height="200" alt="CV Builder">
 <a href="https://github.com/xewar/to-do-list/">
-<img align="right" src="https://github.com/xewar/projectThumbnails/blob/56f419dd9d1148b3ac97cc690b6df82e6c90136e/todoList.png" height="150"></a><a href="https://github.com/xewar/etch-a-sketch/"><img align="right" src="https://github.com/xewar/projectThumbnails/blob/eac75ed24fa52f136b1d08ab36099e5fe7bbb612/etchASketch.png" height="150"></a><a href="https://github.com/xewar/weatherApp"></a>
+<img align="right" src="https://github.com/xewar/projectThumbnails/blob/56f419dd9d1148b3ac97cc690b6df82e6c90136e/todoList.png" height="200"></a><a href="https://github.com/xewar/etch-a-sketch/"><img align="right" src="https://github.com/xewar/projectThumbnails/blob/eac75ed24fa52f136b1d08ab36099e5fe7bbb612/etchASketch.png" height="200"></a><a href="https://github.com/xewar/weatherApp"></a>
 <br></br>
 
 <!--
