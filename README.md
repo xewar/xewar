@@ -1,13 +1,19 @@
-### Greetings! I'm Clara (she/her)
+# Greetings! I'm Clara (she/her) 🌱 
 
-Welcome to my profile. I'm currently focused on learning web development. I'm really excited to doing a three-month residency at [the Recurse Center](https://www.recurse.com/about).
+I am a fullstack software developer with a background in design, finance, and urban planning. I'm excited to have just finished a batch at [the Recurse Center](https://www.recurse.com/about).
 
-#### This week I'm focusing on:
-- The design + wireframe for my next project, a fashion app
-- learning MongoDB
-- practicing Typescript
+### Current skill set:
+HTML5 | CSS3 | JavaScript ES6+ | React | Figma | Adobe CS
 
-#### Here are some recent projects:
+### Currently learning:
+Node.js | Express.js | MongoDB | TypeScript | Next.js
+
+### This week I'm working on:
+- Interactive prototype in Figma for my next project 
+- MongoDB
+- Typescript
+
+### Here are some recent projects:
 <a href="https://github.com/xewar/memoryCard">
 <img src="https://github.com/xewar/projectThumbnails/blob/78a671e8a9e1d9f81eadb9d65aa2c61897d97d00/birdsOfNY2.png" height="200" alt="Birds of NY">
 <a href="https://github.com/xewar/cv-builder">
@@ -19,6 +25,8 @@ Welcome to my profile. I'm currently focused on learning web development. I'm re
 
 <a href="https://github.com/xewar/to-do-list/">
 <img align="right" src="https://github.com/xewar/projectThumbnails/blob/56f419dd9d1148b3ac97cc690b6df82e6c90136e/todoList.png" height="200"></a>
+
+
 <!--
 
 You can also find me on my website: [clarahonu.com](https://clarahonu.com)
@@ -28,16 +36,4 @@ Archived projects:
 <a href="https://github.com/xewar/battleship">
 <img src="https://github.com/xewar/projectThumbnails/blob/886a13e60bacd355e3d8b85fc9b9c0b804a624dd/Battleship.png" height="150" alt="Battleship"></a>
   <img align="right" alt="Weather App" src="https://github.com/xewar/weatherApp/blob/623bbc1633a844fbcaa61767a4629da7046055f0/src/projectThumbnail.png" height="150"></a>
-**xewar/xewar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
