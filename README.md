@@ -14,7 +14,7 @@ Welcome to my profile. I'm currently focused on learning web development. I'm re
 <img src="https://github.com/xewar/projectThumbnails/blob/7748307293ac9c726d2cdf4a89ba3f5cc829b40b/cvBuilder2.png" height="200" alt="CV Builder">
   <br></br>
   
-  <a href="https://github.com/xewar/etch-a-sketch/"><img align="right" src="https://github.com/xewar/projectThumbnails/blob/eac75ed24fa52f136b1d08ab36099e5fe7bbb612/etchASketch.png" height="200"></a><a href="https://github.com/xewar/weatherApp">  <img align="right" alt="Weather App" src="https://github.com/xewar/weatherApp/blob/623bbc1633a844fbcaa61767a4629da7046055f0/src/projectThumbnail.png" height="200"></a>
+  <a href="https://github.com/xewar/etch-a-sketch/"><img align="right" src="https://github.com/xewar/projectThumbnails/blob/eac75ed24fa52f136b1d08ab36099e5fe7bbb612/etchASketch.png" width="400"></a><a href="https://github.com/xewar/weatherApp">  <img align="right" alt="Weather App" src="https://github.com/xewar/weatherApp/blob/623bbc1633a844fbcaa61767a4629da7046055f0/src/projectThumbnail.png" height="200"></a>
 <br></br>
 
 <a href="https://github.com/xewar/to-do-list/">
