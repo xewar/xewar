@@ -3,15 +3,14 @@
 I am a fullstack software developer with a background in design, finance, and urban planning. I'm excited to have just finished a batch at [the Recurse Center](https://www.recurse.com/about).
 
 ### Current skill set:
-HTML5 | CSS3 | JavaScript ES6+ | React | Figma | Adobe CS
+HTML5 | CSS3 | JavaScript ES6+ | React | MongoDB | Figma | Adobe CS
 
 ### Currently learning:
-Node.js | Express.js | MongoDB | TypeScript | Next.js
+Node.js | Express.js | TypeScript | Next.js
 
 ### This week I'm working on:
 - Interactive prototype in Figma for my next project 
-- MongoDB
-- Typescript
+- Express
 
 ### Here are some recent projects:
 <a href="https://github.com/xewar/memoryCard">
