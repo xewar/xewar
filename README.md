@@ -9,8 +9,9 @@ HTML5 | CSS3 | JavaScript ES6+ | React | MongoDB | Figma | Adobe CS
 Node.js | Express.js | TypeScript | Next.js
 
 ### This week I'm working on:
-- Interactive prototype in Figma for my next project 
-- Express
+- Express.js
+- Building out the interactive Figma prototype for my next project 
+
 
 ### Here are some recent projects:
 <a href="https://github.com/xewar/memoryCard">
