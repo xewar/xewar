@@ -1,6 +1,6 @@
 # Greetings! I'm Clara (she/her) 🌱 
 
-I am a fullstack software developer with a background in design and urban planning. I just finished a batch at [the Recurse Center](https://www.recurse.com/about) and I'm currently looking for my first fulltime engineering/design position. I'm also always looking for collaborators for creative technology and design projects. You can see more of my work on my website: <a href ="https://clarahonu.com">clarahonu.com</a>
+I am a UX designer and fullstack software developer with a background in design and urban planning. I just finished a batch at [the Recurse Center](https://www.recurse.com/about) and I'm currently looking for my first fulltime UX or engineering position. I'm also always looking for collaborators for creative technology and design projects. You can see more of my work on my website: <a href ="https://clarahonu.com">clarahonu.com</a>
 
 ### Current skill set:
 HTML5 | CSS3 | JavaScript ES6+ | React | MongoDB | Node.js | Figma | Adobe CS
@@ -9,7 +9,7 @@ HTML5 | CSS3 | JavaScript ES6+ | React | MongoDB | Node.js | Figma | Adobe CS
 Express.js | TypeScript | Next.js
 
 ### This week I'm working on:
-- Express.js
+- Making a local library website using Express.js
 - Building out the interactive Figma prototype for my next project 
 
 ### Some recent projects:
