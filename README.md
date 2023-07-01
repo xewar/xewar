@@ -6,7 +6,7 @@ I am a fullstack software developer with a background in design and urban planni
 JavaScript ES6+ | Python | React | Node.js | Express.js | | MongoDB | Figma | Adobe CS |  HTML5 | CSS3 
 
 ### Currently focused on learning:
-Next.js | Tailwind CSS | Material UI
+Next.js | Tailwind CSS
 
 ### This week I'm working on:
 - Building a native seed library with Next.js
