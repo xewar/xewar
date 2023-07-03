@@ -3,10 +3,10 @@
 I am a fullstack software developer with a background in design and urban planning. I recently finished a batch at [the Recurse Center](https://www.recurse.com/about) and I'm currently looking for my first fulltime engineering position. I'm also always looking for collaborators for creative technology and design projects. You can see more of my work on my website: <a href ="https://clarahonu.com">clarahonu.com</a>
 
 ### Current skill set:
-JavaScript ES6+ | Python | React | Node.js | Express.js | | MongoDB | Figma | Adobe CS |  HTML5 | CSS3 
+JavaScript ES6+ | Python | React | Node.js | Express.js | MongoDB | Figma | Adobe CS |  HTML5 | CSS3 
 
 ### Currently focused on learning:
-Next.js | Tailwind CSS
+Next.js | Tailwind CSS | Prisma
 
 ### This week I'm working on:
 - Building a native seed library with Next.js
