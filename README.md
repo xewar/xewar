@@ -5,7 +5,7 @@ I am a fullstack software developer with a background in design and urban planni
 ### Current skill set:
 JavaScript ES6+ | Python | React | Next.js | Node.js | Express.js | Prisma | Postgres| MongoDB | Figma | Adobe CS |  HTML5 | CSS3 | Tailwind CSS
 
-### Currently focused on learning:
+### Currently learning:
 Vue | TypeScript | d3.js
 
 ### Some recent projects:
