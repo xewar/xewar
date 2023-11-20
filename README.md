@@ -3,10 +3,10 @@
 I am a fullstack software developer with a background in design and urban planning. I recently finished a batch at [the Recurse Center](https://www.recurse.com/about) and I'm currently working as a developer for Spelman College's Center of Excellence for Minority Women in STEM. You can see more of my work on my website: <a href ="https://clarahonu.com">clarahonu.com</a>
 
 ### Current skill set:
-JavaScript ES6+ | Python | React | Next.js | Node.js | Express.js | Prisma | Postgres| MongoDB | Figma | Adobe CS |  HTML5 | CSS3 | Tailwind CSS
+JavaScript ES6+ | Python | React | Next.js | Node.js | Vue | TypeScript | Prisma | Postgres| MongoDB | Figma | Adobe CS |  HTML5 | CSS3 | Tailwind CSS
 
 ### Currently learning:
-Vue | TypeScript | d3.js
+d3.js
 
 ### Some recent projects:
 <a href="https://github.com/xewar/strawberries">
