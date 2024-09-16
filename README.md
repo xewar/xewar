@@ -1,14 +1,12 @@
 # Greetings! I'm Clara (she/her) 🌱 
 
-I am a fullstack software developer with a background in design and urban planning. I recently finished a batch at [the Recurse Center](https://www.recurse.com/about) and I'm currently working as a developer for Spelman College's Center of Excellence for Minority Women in STEM. You can see more of my work on my website: <a href ="https://clarahonu.com">clarahonu.com</a>
+I am a fullstack software developer with a background in design and urban planning.
 
-### Current skill set:
-JavaScript ES6+ | Python | React | Next.js | Node.js | Vue | TypeScript | Prisma | Postgres | MongoDB | Figma | Adobe CS |  HTML5 | CSS3 | Tailwind CSS
+I'm a former [Recurser](https://www.recurse.com/about), and I'm currently building something new as an entrepreneur in residence at [Blue Ridge Labs](https://www.labs.robinhood.org/).
 
-### Currently learning:
-d3.js
+You can see more of my work on my website: <a href ="https://clarahonu.com">clarahonu.com</a>
 
-### Some recent projects:
+### Some past projects:
 <a href="https://github.com/xewar/strawberries">
 <img src="https://github.com/xewar/projectThumbnails/blob/e185a244db9e981110e2600c6ce8d4462e16dcd2/wtehim.png" height="300" alt="wtehim, or wild strawberries - a native seed store"></a>
 <a href="https://github.com/xewar/memoryCard">
