@@ -2,7 +2,7 @@
 
 I am a fullstack software developer with a background in design and urban planning.
 
-I'm a former [Recurser](https://www.recurse.com/about), and I'm currently building something new as an entrepreneur in residence at [Blue Ridge Labs](https://www.labs.robinhood.org/).
+I'm a former [Recurser](https://www.recurse.com/about), and I'm currently building something new as an entrepreneur-in-residence at [Blue Ridge Labs](https://www.labs.robinhood.org/).
 
 You can see more of my work on my website: <a href ="https://clarahonu.com">clarahonu.com</a>
 
